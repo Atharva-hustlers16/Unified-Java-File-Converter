@@ -1,0 +1,3 @@
+Date,Input File,Output File,From Format,To Format,Status,Error Message
+2025-10-08 06:05:56,D:\SIH25242.pdf,D:\output.json,PDF,JSON,FAILED,No converter available for PDF to JSON
+2025-10-08 06:06:50,D:\abc.txt,D:\output.pdf,TEXT,PDF,SUCCESS,

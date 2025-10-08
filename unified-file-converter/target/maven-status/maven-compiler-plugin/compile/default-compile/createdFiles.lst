@@ -1,0 +1,17 @@
+com\converterframework\converters\JSONToXMLConverter.class
+com\converterframework\ui\MainFrame.class
+com\converterframework\ui\StatusPanel.class
+com\converterframework\Main.class
+com\converterframework\core\ConversionManager.class
+com\converterframework\ui\MainFrame$1.class
+com\converterframework\utils\TimeUtils.class
+com\converterframework\converters\TextToPDFConverter.class
+com\converterframework\core\FormatDetector.class
+com\converterframework\ui\LogPanel.class
+com\converterframework\converters\CSVToJSONConverter.class
+com\converterframework\utils\FileUtils.class
+com\converterframework\core\LoggerService.class
+com\converterframework\interfaces\FileConverter.class
+com\converterframework\ui\FileChooserPanel.class
+com\converterframework\converters\CSVToExcelConverter.class
+com\converterframework\converters\JSONToCSVConverter.class
